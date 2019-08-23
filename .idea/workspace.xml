@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1660211f-e9af-4bc2-bec0-0a9f1e9b538e" name="Default Changelist" comment="subo proyecto de registro de estudiante">
+      <change afterPath="$PROJECT_DIR$/.idea/estudiantes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/grunt/bs-glyphicons-data-generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/grunt/bs-lessdoc-parser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/grunt/bs-raw-files-generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/grunt/sauce_browsers.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/js/affix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/js/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/js/button.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/js/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/js/collapse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/js/dropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/js/modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/js/popover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/js/scrollspy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/js/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/js/tooltip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/js/transition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/alerts.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/badges.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/bootstrap.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/breadcrumbs.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/button-groups.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/buttons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/carousel.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/close.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/code.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/component-animations.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/dropdowns.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/forms.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/glyphicons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/grid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/input-groups.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/jumbotron.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/labels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/list-group.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/media.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/alerts.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/background-variant.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/border-radius.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/buttons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/center-block.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/clearfix.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/forms.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/gradients.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/grid-framework.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/grid.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/hide-text.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/image.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/labels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/list-group.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/nav-divider.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/nav-vertical-align.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/opacity.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/pagination.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/panels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/progress-bar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/reset-filter.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/resize.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/responsive-visibility.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/size.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/tab-focus.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/table-row.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/text-emphasis.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/text-overflow.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/mixins/vendor-prefixes.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/modals.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/navbar.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/navs.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/normalize.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/pager.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/pagination.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/panels.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/popovers.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/print.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/progress-bars.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/responsive-embed.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/responsive-utilities.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/scaffolding.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/tables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/theme.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/thumbnails.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/tooltip.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/type.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/utilities.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/less/wells.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/bootstrap/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/.mailmap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/AUTHORS.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/Gruntfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/MIT-LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/build/release-notes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/build/release.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/jquery-migrate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/jquery-migrate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/speed/benchmark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/speed/benchmarker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/speed/benchmarker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/speed/closest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/speed/css.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/speed/event.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/speed/filter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/speed/find.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/speed/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/speed/jquery-basis.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/speed/slice.vs.concat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/ajax/jsonp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/ajax/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/ajax/xhr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/callbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/deprecated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/dimensions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/effects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/event-alias.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/exports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/intro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/manipulation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/offset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/outro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/queue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/serialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/sizzle-jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/traversing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/src/wrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/.jshintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/1x1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/ajax/unreleasedXHR.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/atom+xml.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/badcall.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/badjson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/cleanScript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/core/cc_on.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/dashboard.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/dimensions/documentLarge.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/dimensions/documentSmall.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/echoData.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/echoQuery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/errorWithJSON.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/errorWithText.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/etag.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/evalScript.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/event/focusElem.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/event/longLoadScript.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/event/promiseReady.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/event/syncReady.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/headers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/if_modified_since.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/iframe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/jquery-1.9.1.ajax_xhr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/json.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/json_obj.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/jsonp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/manipulation/iframe-denied.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/name.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/name.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/nocontent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/offset/absolute.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/offset/body.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/offset/fixed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/offset/relative.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/offset/scroll.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/offset/static.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/offset/table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/params_html.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/readywaitasset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/readywaitloader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/script.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/selector/html5_selector.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/selector/sizzle_cache.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/statusText.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/support/bodyBackground.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/support/boxSizing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/support/csp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/support/csp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/support/shrinkWrapBlocks.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/support/testElementCrash.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/test.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/test2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/test3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/testinit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/testrunner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/testsuite.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/text.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/ua.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/with_fries.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/data/with_fries_over_jsonp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/delegatetest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/hovertest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/localfile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/networkerror.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/readywait.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/ajax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/attributes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/callbacks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/core.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/deferred.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/deprecated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/dimensions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/effects.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/event.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/exports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/manipulation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/offset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/queue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/selector.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/serialize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/traversing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/unit/wrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/components/jquery/test/xhtml.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bd/estudiante.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/borrar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacto.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crear.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/editar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/connect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/redirect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login-user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recibir.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/1566473272-data-mining-adsi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/1566473613-data-mining-adsi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/1566473739-data-mining-adsi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/1566473903-data-mining-adsi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/1566475323-data-mining-adsi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/1566475609-data-mining-adsi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ver.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1PqI7cGsKnd0neobP8NpJ062ZMJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1660211f-e9af-4bc2-bec0-0a9f1e9b538e" name="Default Changelist" comment="" />
+      <created>1566595034519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566595034519</updated>
+      <workItem from="1566595042787" duration="1254000" />
+      <workItem from="1566596365765" duration="567000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="subo proyecto de registro de estudiante" />
+    <option name="LAST_COMMIT_MESSAGE" value="subo proyecto de registro de estudiante" />
+  </component>
+</project>
